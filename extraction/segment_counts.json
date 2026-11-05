@@ -1,0 +1,578 @@
+[
+  {
+    "segment": 1,
+    "stage": "I. Longing and social class",
+    "dimension": "class_and_social_aspiration",
+    "sub": "status_and_rank",
+    "item": "man of wealth and distinction",
+    "pos": 201
+  },
+  {
+    "segment": 1,
+    "stage": "I. Longing and social class",
+    "dimension": "class_and_social_aspiration",
+    "sub": "status_and_rank",
+    "item": "the very finest ladies",
+    "pos": 705
+  },
+  {
+    "segment": 1,
+    "stage": "I. Longing and social class",
+    "dimension": "appearance_and_identity",
+    "sub": "beauty_and_charm",
+    "item": "instinctive elegance",
+    "pos": 584
+  },
+  {
+    "segment": 1,
+    "stage": "I. Longing and social class",
+    "dimension": "appearance_and_identity",
+    "sub": "beauty_and_charm",
+    "item": "pretty and charming",
+    "pos": 21
+  },
+  {
+    "segment": 1,
+    "stage": "I. Longing and social class",
+    "dimension": "appearance_and_identity",
+    "sub": "recognition_and_self_image",
+    "item": "she was as unhappy",
+    "pos": 399
+  },
+  {
+    "segment": 1,
+    "stage": "I. Longing and social class",
+    "dimension": "class_and_social_aspiration",
+    "sub": "status_and_rank",
+    "item": "family of clerks",
+    "pos": 87
+  },
+  {
+    "segment": 1,
+    "stage": "I. Longing and social class",
+    "dimension": "appearance_and_identity",
+    "sub": "beauty_and_charm",
+    "item": "natural delicacy",
+    "pos": 566
+  },
+  {
+    "segment": 1,
+    "stage": "I. Longing and social class",
+    "dimension": "class_and_social_aspiration",
+    "sub": "status_and_rank",
+    "item": "no expectations",
+    "pos": 123
+  },
+  {
+    "segment": 1,
+    "stage": "I. Longing and social class",
+    "dimension": "appearance_and_identity",
+    "sub": "clothing_and_adornment",
+    "item": "dressed plainly",
+    "pos": 320
+  },
+  {
+    "segment": 1,
+    "stage": "I. Longing and social class",
+    "dimension": "class_and_social_aspiration",
+    "sub": "status_and_rank",
+    "item": "minor official",
+    "pos": 271
+  },
+  {
+    "segment": 1,
+    "stage": "I. Longing and social class",
+    "dimension": "appearance_and_identity",
+    "sub": "beauty_and_charm",
+    "item": "natural charm",
+    "pos": 516
+  },
+  {
+    "segment": 1,
+    "stage": "I. Longing and social class",
+    "dimension": "appearance_and_identity",
+    "sub": "beauty_and_charm",
+    "item": "a quick wit",
+    "pos": 609
+  },
+  {
+    "segment": 1,
+    "stage": "I. Longing and social class",
+    "dimension": "class_and_social_aspiration",
+    "sub": "status_and_rank",
+    "item": "commoners",
+    "pos": 681
+  },
+  {
+    "segment": 1,
+    "stage": "I. Longing and social class",
+    "dimension": "class_and_social_aspiration",
+    "sub": "status_and_rank",
+    "item": "no dowry",
+    "pos": 113
+  },
+  {
+    "segment": 1,
+    "stage": "I. Longing and social class",
+    "dimension": "class_and_social_aspiration",
+    "sub": "status_and_rank",
+    "item": "no means",
+    "pos": 140
+  },
+  {
+    "segment": 1,
+    "stage": "I. Longing and social class",
+    "dimension": "appearance_and_identity",
+    "sub": "beauty_and_charm",
+    "item": "beauty",
+    "pos": 497
+  },
+  {
+    "segment": 1,
+    "stage": "I. Longing and social class",
+    "dimension": "appearance_and_identity",
+    "sub": "beauty_and_charm",
+    "item": "grace",
+    "pos": 505
+  },
+  {
+    "segment": 2,
+    "stage": "I. Longing and social class",
+    "dimension": "class_and_social_aspiration",
+    "sub": "luxury_and_display",
+    "item": "torches in bronze holders",
+    "pos": 536
+  },
+  {
+    "segment": 2,
+    "stage": "I. Longing and social class",
+    "dimension": "appearance_and_identity",
+    "sub": "recognition_and_self_image",
+    "item": "feeling she was entitled",
+    "pos": 24
+  },
+  {
+    "segment": 2,
+    "stage": "I. Longing and social class",
+    "dimension": "class_and_social_aspiration",
+    "sub": "luxury_and_display",
+    "item": "oriental tapestries",
+    "pos": 497
+  },
+  {
+    "segment": 2,
+    "stage": "I. Longing and social class",
+    "dimension": "class_and_social_aspiration",
+    "sub": "luxury_and_display",
+    "item": "priceless ornaments",
+    "pos": 771
+  },
+  {
+    "segment": 2,
+    "stage": "I. Longing and social class",
+    "dimension": "class_and_social_aspiration",
+    "sub": "luxury_and_display",
+    "item": "shining silverware",
+    "pos": 1159
+  },
+  {
+    "segment": 2,
+    "stage": "I. Longing and social class",
+    "dimension": "class_and_social_aspiration",
+    "sub": "envy_and_longing",
+    "item": "suffered endlessly",
+    "pos": 4
+  },
+  {
+    "segment": 2,
+    "stage": "I. Longing and social class",
+    "dimension": "class_and_social_aspiration",
+    "sub": "envy_and_longing",
+    "item": "hopeless fantasies",
+    "pos": 432
+  },
+  {
+    "segment": 2,
+    "stage": "I. Longing and social class",
+    "dimension": "class_and_social_aspiration",
+    "sub": "luxury_and_display",
+    "item": "vast living rooms",
+    "pos": 694
+  },
+  {
+    "segment": 2,
+    "stage": "I. Longing and social class",
+    "dimension": "class_and_social_aspiration",
+    "sub": "luxury_and_display",
+    "item": "elegant furniture",
+    "pos": 741
+  },
+  {
+    "segment": 2,
+    "stage": "I. Longing and social class",
+    "dimension": "class_and_social_aspiration",
+    "sub": "luxury_and_display",
+    "item": "wonderful plates",
+    "pos": 1326
+  },
+  {
+    "segment": 2,
+    "stage": "I. Longing and social class",
+    "dimension": "class_and_social_aspiration",
+    "sub": "envy_and_longing",
+    "item": "terrible regrets",
+    "pos": 411
+  },
+  {
+    "segment": 2,
+    "stage": "I. Longing and social class",
+    "dimension": "class_and_social_aspiration",
+    "sub": "luxury_and_display",
+    "item": "huge armchairs",
+    "pos": 620
+  },
+  {
+    "segment": 2,
+    "stage": "I. Longing and social class",
+    "dimension": "class_and_social_aspiration",
+    "sub": "luxury_and_display",
+    "item": "rare old silks",
+    "pos": 725
+  },
+  {
+    "segment": 2,
+    "stage": "I. Longing and social class",
+    "dimension": "class_and_social_aspiration",
+    "sub": "luxury_and_display",
+    "item": "fine dinners",
+    "pos": 1142
+  },
+  {
+    "segment": 2,
+    "stage": "I. Longing and social class",
+    "dimension": "class_and_social_aspiration",
+    "sub": "envy_and_longing",
+    "item": "she dreamed",
+    "pos": 452
+  },
+  {
+    "segment": 2,
+    "stage": "I. Longing and social class",
+    "dimension": "class_and_social_aspiration",
+    "sub": "envy_and_longing",
+    "item": "she dreamed",
+    "pos": 679
+  },
+  {
+    "segment": 2,
+    "stage": "I. Longing and social class",
+    "dimension": "class_and_social_aspiration",
+    "sub": "envy_and_longing",
+    "item": "she dreamed",
+    "pos": 1127
+  },
+  {
+    "segment": 2,
+    "stage": "I. Longing and social class",
+    "dimension": "class_and_social_aspiration",
+    "sub": "envy_and_longing",
+    "item": "she dreamed",
+    "pos": 1284
+  },
+  {
+    "segment": 2,
+    "stage": "I. Longing and social class",
+    "dimension": "appearance_and_identity",
+    "sub": "clothing_and_adornment",
+    "item": "dresses",
+    "pos": 1480
+  },
+  {
+    "segment": 2,
+    "stage": "I. Longing and social class",
+    "dimension": "class_and_social_aspiration",
+    "sub": "luxury_and_display",
+    "item": "jewels",
+    "pos": 1492
+  },
+  {
+    "segment": 7,
+    "stage": "II. The ball and its aftermath",
+    "dimension": "debt_and_material_loss",
+    "sub": "money_and_cost",
+    "item": "the cost",
+    "pos": 444
+  },
+  {
+    "segment": 9,
+    "stage": "III. Loss and repayment",
+    "dimension": "debt_and_material_loss",
+    "sub": "search_and_loss",
+    "item": "looking",
+    "pos": 662
+  },
+  {
+    "segment": 9,
+    "stage": "III. Loss and repayment",
+    "dimension": "class_and_social_aspiration",
+    "sub": "luxury_and_display",
+    "item": "jewels",
+    "pos": 349
+  },
+  {
+    "segment": 10,
+    "stage": "III. Loss and repayment",
+    "dimension": "class_and_social_aspiration",
+    "sub": "luxury_and_display",
+    "item": "jewels",
+    "pos": 111
+  },
+  {
+    "segment": 11,
+    "stage": "III. Loss and repayment",
+    "dimension": "appearance_and_identity",
+    "sub": "clothing_and_adornment",
+    "item": "necklace",
+    "pos": 261
+  },
+  {
+    "segment": 12,
+    "stage": "IV. Revelation and revaluation",
+    "dimension": "appearance_and_identity",
+    "sub": "clothing_and_adornment",
+    "item": "diamond necklace",
+    "pos": 100
+  },
+  {
+    "segment": 13,
+    "stage": "IV. Revelation and revaluation",
+    "dimension": "irony_and_false_value",
+    "sub": "assumption_and_certainty",
+    "item": "you bought a diamond necklace to replace mine",
+    "pos": 8606
+  },
+  {
+    "segment": 13,
+    "stage": "IV. Revelation and revaluation",
+    "dimension": "irony_and_false_value",
+    "sub": "reversal_and_revelation",
+    "item": "it was worth five hundred francs at most",
+    "pos": 8857
+  },
+  {
+    "segment": 13,
+    "stage": "IV. Revelation and revaluation",
+    "dimension": "appearance_and_identity",
+    "sub": "recognition_and_self_image",
+    "item": "proud and innocent pleasure",
+    "pos": 8729
+  },
+  {
+    "segment": 13,
+    "stage": "IV. Revelation and revaluation",
+    "dimension": "debt_and_material_loss",
+    "sub": "search_and_loss",
+    "item": "in the folds of her dress",
+    "pos": 2458
+  },
+  {
+    "segment": 13,
+    "stage": "IV. Revelation and revaluation",
+    "dimension": "debt_and_material_loss",
+    "sub": "search_and_loss",
+    "item": "in the folds of her cloak",
+    "pos": 2485
+  },
+  {
+    "segment": 13,
+    "stage": "IV. Revelation and revaluation",
+    "dimension": "debt_and_material_loss",
+    "sub": "labor_and_repayment",
+    "item": "ten years to pay for it",
+    "pos": 8449
+  },
+  {
+    "segment": 13,
+    "stage": "IV. Revelation and revaluation",
+    "dimension": "irony_and_false_value",
+    "sub": "imitation_and_similarity",
+    "item": "another exactly like it",
+    "pos": 8404
+  },
+  {
+    "segment": 13,
+    "stage": "IV. Revelation and revaluation",
+    "dimension": "irony_and_false_value",
+    "sub": "assumption_and_certainty",
+    "item": "they were very similar",
+    "pos": 8684
+  },
+  {
+    "segment": 13,
+    "stage": "IV. Revelation and revaluation",
+    "dimension": "debt_and_material_loss",
+    "sub": "search_and_loss",
+    "item": "it must be in the cab",
+    "pos": 2753
+  },
+  {
+    "segment": 13,
+    "stage": "IV. Revelation and revaluation",
+    "dimension": "debt_and_material_loss",
+    "sub": "labor_and_repayment",
+    "item": "it wasn't easy for us",
+    "pos": 8474
+  },
+  {
+    "segment": 13,
+    "stage": "IV. Revelation and revaluation",
+    "dimension": "irony_and_false_value",
+    "sub": "reversal_and_revelation",
+    "item": "mine was an imitation",
+    "pos": 8834
+  },
+  {
+    "segment": 13,
+    "stage": "IV. Revelation and revaluation",
+    "dimension": "irony_and_false_value",
+    "sub": "assumption_and_certainty",
+    "item": "you brought it back",
+    "pos": 8362
+  },
+  {
+    "segment": 13,
+    "stage": "IV. Revelation and revaluation",
+    "dimension": "debt_and_material_loss",
+    "sub": "labor_and_repayment",
+    "item": "we had very little",
+    "pos": 8497
+  },
+  {
+    "segment": 13,
+    "stage": "IV. Revelation and revaluation",
+    "dimension": "debt_and_material_loss",
+    "sub": "search_and_loss",
+    "item": "could not find it",
+    "pos": 2549
+  },
+  {
+    "segment": 13,
+    "stage": "IV. Revelation and revaluation",
+    "dimension": "appearance_and_identity",
+    "sub": "clothing_and_adornment",
+    "item": "diamond necklace",
+    "pos": 8245
+  },
+  {
+    "segment": 13,
+    "stage": "IV. Revelation and revaluation",
+    "dimension": "debt_and_material_loss",
+    "sub": "search_and_loss",
+    "item": "in her pockets",
+    "pos": 2512
+  },
+  {
+    "segment": 13,
+    "stage": "IV. Revelation and revaluation",
+    "dimension": "debt_and_material_loss",
+    "sub": "search_and_loss",
+    "item": "i lost it",
+    "pos": 8331
+  },
+  {
+    "segment": 13,
+    "stage": "IV. Revelation and revaluation",
+    "dimension": "appearance_and_identity",
+    "sub": "clothing_and_adornment",
+    "item": "necklace",
+    "pos": 2181
+  },
+  {
+    "segment": 13,
+    "stage": "IV. Revelation and revaluation",
+    "dimension": "appearance_and_identity",
+    "sub": "clothing_and_adornment",
+    "item": "necklace",
+    "pos": 2370
+  },
+  {
+    "segment": 13,
+    "stage": "IV. Revelation and revaluation",
+    "dimension": "appearance_and_identity",
+    "sub": "clothing_and_adornment",
+    "item": "necklace",
+    "pos": 3621
+  },
+  {
+    "segment": 13,
+    "stage": "IV. Revelation and revaluation",
+    "dimension": "appearance_and_identity",
+    "sub": "clothing_and_adornment",
+    "item": "necklace",
+    "pos": 4035
+  },
+  {
+    "segment": 13,
+    "stage": "IV. Revelation and revaluation",
+    "dimension": "appearance_and_identity",
+    "sub": "clothing_and_adornment",
+    "item": "necklace",
+    "pos": 4141
+  },
+  {
+    "segment": 13,
+    "stage": "IV. Revelation and revaluation",
+    "dimension": "appearance_and_identity",
+    "sub": "clothing_and_adornment",
+    "item": "necklace",
+    "pos": 4588
+  },
+  {
+    "segment": 13,
+    "stage": "IV. Revelation and revaluation",
+    "dimension": "appearance_and_identity",
+    "sub": "clothing_and_adornment",
+    "item": "necklace",
+    "pos": 5251
+  },
+  {
+    "segment": 13,
+    "stage": "IV. Revelation and revaluation",
+    "dimension": "appearance_and_identity",
+    "sub": "clothing_and_adornment",
+    "item": "necklace",
+    "pos": 5356
+  },
+  {
+    "segment": 13,
+    "stage": "IV. Revelation and revaluation",
+    "dimension": "appearance_and_identity",
+    "sub": "clothing_and_adornment",
+    "item": "necklace",
+    "pos": 7313
+  },
+  {
+    "segment": 13,
+    "stage": "IV. Revelation and revaluation",
+    "dimension": "debt_and_material_loss",
+    "sub": "search_and_loss",
+    "item": "looking",
+    "pos": 4126
+  },
+  {
+    "segment": 13,
+    "stage": "IV. Revelation and revaluation",
+    "dimension": "debt_and_material_loss",
+    "sub": "search_and_loss",
+    "item": "looking",
+    "pos": 4336
+  },
+  {
+    "segment": 13,
+    "stage": "IV. Revelation and revaluation",
+    "dimension": "appearance_and_identity",
+    "sub": "beauty_and_charm",
+    "item": "beauty",
+    "pos": 548
+  }
+]

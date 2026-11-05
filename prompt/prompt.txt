@@ -1,0 +1,60 @@
+You are assisting a literary researcher who is doing a reader-oriented analysis of Guy de Maupassant's short story "The Necklace" (1884).
+
+RESEARCH QUESTION: How does the story use appearance and money to expose the gap between perceived social value and actual material value?
+
+TASK: Read the PASSAGE below. Extract the words and phrases in which the narrator's language expresses each sub-type defined here.
+
+Class and social aspiration (class_and_social_aspiration): The gap between Mathilde's social position and the wealthy life she longs for.
+  - status_and_rank: Words about class, birth, wealth, distinction and social position.
+  - luxury_and_display: Descriptions of fine rooms, clothing, jewels and elegant entertainment.
+  - envy_and_longing: Expressions of desire, regret, fantasy and dissatisfaction.
+
+Appearance and identity (appearance_and_identity): How clothing, beauty and jewelry shape Mathilde's sense of self and how others see her.
+  - beauty_and_charm: Descriptions of beauty, grace, elegance and attractiveness.
+  - clothing_and_adornment: Dresses, jewels and other things worn for appearance.
+  - recognition_and_self_image: Moments when appearance affects confidence, identity or social recognition.
+
+Debt and material loss (debt_and_material_loss): The financial consequences of losing the necklace and replacing it.
+  - money_and_cost: References to francs, prices, expense and the cost of replacement.
+  - search_and_loss: Language describing the missing necklace and attempts to find it.
+  - labor_and_repayment: Hardship, sacrifice and the years spent paying for the replacement.
+
+Irony and false value (irony_and_false_value): The contrast between what the necklace seems to be worth and what it is actually worth.
+  - assumption_and_certainty: Statements that show what the characters believe about the necklace.
+  - imitation_and_similarity: Words that blur the distinction between the original and its replacement.
+  - reversal_and_revelation: The ending's disclosure that changes the meaning of the sacrifice.
+
+RULES:
+1. Copy every item exactly as it appears in the passage. Do not paraphrase, correct or add words.
+2. Choose the shortest phrase that carries the meaning, but keep idioms and collocations whole.
+3. Put each distinct phrase under ONE sub-type only. If it could fit two, choose the better fit.
+4. List each distinct phrase once. Do not repeat it; the researcher's code counts the occurrences.
+5. Do not extract ordinary function words or generic verbs and nouns.
+6. A single word is allowed only when it is central to the dimension.
+7. Return ONLY valid JSON with exactly this structure, with no commentary and no markdown fences.
+
+{
+ "class_and_social_aspiration": {
+  "status_and_rank": [],
+  "luxury_and_display": [],
+  "envy_and_longing": []
+ },
+ "appearance_and_identity": {
+  "beauty_and_charm": [],
+  "clothing_and_adornment": [],
+  "recognition_and_self_image": []
+ },
+ "debt_and_material_loss": {
+  "money_and_cost": [],
+  "search_and_loss": [],
+  "labor_and_repayment": []
+ },
+ "irony_and_false_value": {
+  "assumption_and_certainty": [],
+  "imitation_and_similarity": [],
+  "reversal_and_revelation": []
+ }
+}
+
+PASSAGE:
+{{PASSAGE}}
